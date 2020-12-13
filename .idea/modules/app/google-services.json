@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "833625152342",
+    "project_id": "technio-f309b",
+    "storage_bucket": "technio-f309b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833625152342:android:ab4f851255011082c414f7",
+        "android_client_info": {
+          "package_name": "com.example.technio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833625152342-stsev7ftgf6kb4iu2kfbud58snbif949.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.technio",
+            "certificate_hash": "5a27924358990333ec75f58ee8222ca6dddd0b85"
+          }
+        },
+        {
+          "client_id": "833625152342-fto2pn0t541b7agfno77usm183c2iifb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZI2rWQM2-OZaM3F5qP-7-JJMJPN7ssJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833625152342-fto2pn0t541b7agfno77usm183c2iifb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286003952684",
+    "project_id": "technio-92fb8",
+    "storage_bucket": "technio-92fb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286003952684:android:d4f1a2a6d6827b5a61a589",
+        "android_client_info": {
+          "package_name": "com.example.technio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286003952684-v064p8mu3h76c5r2s542biambb2d00ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj290hT2EI2TS1t3iQMMTD6b2cZo7M0CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286003952684-v064p8mu3h76c5r2s542biambb2d00ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
